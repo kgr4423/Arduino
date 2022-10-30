@@ -1,0 +1,55 @@
+{
+    "explorer.confirmDelete": false,
+    "C_Cpp.default.includePath": [ //インクルードライブラリの設定
+        "C:\\Users\\KukitaHikaru\\Documents\\Arduino\\libraries",  //usernameは適宜変更すること。
+        "C:\\Program Files\\arduino-1.8.16\\tools",
+        "C:\\Program Files\\arduino-1.8.16\\libraries",
+        "C:\\Program Files\\arduino-1.8.16\\hardware",
+        "C:\\Users\\KukitaHikaru\\AppData\\Local\\Arduino15"
+    ],
+    "C_Cpp.intelliSenseEngine": "Tag Parser", //コード補完の設定
+    "arduino.path": "C:\\Program Files\\arduino-1.8.16",
+    "arduino.commandPath": "arduino_debug.exe",
+    "arduino.additionalUrls": [],
+    "arduino.logLevel": "info",
+    "arduino.enableUSBDetection": true,
+    "arduino.disableTestingOpen": false,
+    "arduino.skipHeaderProvider": false,
+    "arduino.defaultBaudRate": 9600,
+    "files.associations": {
+        "cstddef": "cpp",
+        "cctype": "cpp",
+        "chrono": "cpp",
+        "clocale": "cpp",
+        "cmath": "cpp",
+        "cstdarg": "cpp",
+        "cstdint": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "ctime": "cpp",
+        "cwchar": "cpp",
+        "cwctype": "cpp",
+        "exception": "cpp",
+        "ratio": "cpp",
+        "type_traits": "cpp",
+        "initializer_list": "cpp",
+        "iosfwd": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "*.tcc": "cpp",
+        "cinttypes": "cpp",
+        "typeinfo": "cpp",
+        "__config": "cpp",
+        "__debug": "cpp",
+        "__nullptr": "cpp"
+    },
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#1c3f57",
+        "titleBar.activeForeground": "#c2c2c2",
+        "activityBar.background": "#243b4b",
+        "activityBar.foreground": "#dddddd",
+        "statusBar.background": "#255f86",
+        "statusBar.foreground": "#c2c2c2"
+    },
+    
+}
